@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TODO Task </string>
+    <string name="message1">No Task Available, Add new task by clicking on + icon. </string>
+    <string name="taskname">Enter Task Name</string>
+    <string name="taskdesc">Enter Description</string>
+    <string name="submit">Submit</string>
+    <string name="choose_date">Choose Task Date : </string>
+    <string name="delete_task">Delete Task </string>
+
+    <string-array name="tasktype">
+        <item>Select Task Type</item>
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="taskstatus">
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
