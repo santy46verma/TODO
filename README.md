@@ -9,3 +9,5 @@ App is designed with latest Material Design and Features.
 4. TextInputLayout for showing Error.
 5. Custom Spinner For Task Type and Status
 6. Sqlite Database for persisting data
+
+![alt tag](http://i.imgur.com/CteDbMr.gif)
